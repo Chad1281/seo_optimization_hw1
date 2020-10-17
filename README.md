@@ -22,6 +22,8 @@ Use the links to the right in the navigation bar to scroll to sections lower in 
 
 ## Contributors
 
+[Chad Cook](https://github.com/Chad1281)
+
 [Joey Sisk](https://github.com/fuddafudda)
 
 [Chase Harrington](https://github.com/Harrichas)

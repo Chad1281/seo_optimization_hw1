@@ -8,7 +8,7 @@
 
 This page is designed so that it is accessible for all users, moves up to the top of search results, and loads quickly. All of the images have alt tag descriptions so they can be read by screen readers and will show if the image doesn't load in the page.
 
-![Image of Horiseon Home Page](
+![Image of Horiseon Home Page](https://github.com/Chad1281/seo_optimization_hw1/blob/master/assets/images/Homepage.png)
 
 ## Deployment
 
@@ -17,6 +17,8 @@ You can access the page at [https://chad1281.github.io/seo_optimization_hw1/](ht
 ## Usage
 
 Use the links in the navigation bar to scroll to sections lower in the page.
+
+![Image of the navigation bar](https://github.com/Chad1281/seo_optimization_hw1/blob/master/assets/images/Nav_bar.png)
 
 ## Credits
 

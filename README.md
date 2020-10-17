@@ -12,15 +12,15 @@ This page is designed so that it is accessible for all users, moves up to the to
 
 ## Deployment
 
-You can access the page at [https://chad1281.github.io/seo_optimization_hw1/](https://chad1281.github.io/seo_optimization_hw1/)
+Access the page at [https://chad1281.github.io/seo_optimization_hw1/](https://chad1281.github.io/seo_optimization_hw1/)
 
 ## Usage
 
-Use the links in the navigation bar to scroll to sections lower in the page.
+Use the links to the right in the navigation bar to scroll to sections lower in the page.
 
 ![Image of the navigation bar](https://github.com/Chad1281/seo_optimization_hw1/blob/master/assets/images/Nav_bar.png)
 
-## Credits
+## Contributors
 
 [Joey Sisk](https://github.com/fuddafudda)
 
